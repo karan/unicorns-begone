@@ -1,9 +1,9 @@
 {
 	"manifest_version": 2,
-	"name": "Millennials Begone!",
+	"name": "Unicorns Begone!",
 	"version": "1.0",
-	"description": "Replaces the text 'millennial' with 'pesky whipper-snapper'.",
-	"content_scripts": 
+	"description": "Replaces the text 'unicorn' with 'just another company with a $1b valuation'",
+	"content_scripts":
 	[
 		{
 			"matches": ["*://*/*"],
