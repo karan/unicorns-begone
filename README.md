@@ -8,5 +8,5 @@ Based on [Steven Frank](http://stevenf.com/)'s [cloud-to-butt](https://github.co
 Installation
 ------------
 
-This extension may be installed via the [Chrome Web Store](https://chrome.google.com/webstore/detail/millennials-begone/dlgjecnejicmpdknhangcbeahbgipolf).
+CRX-based install: In Chrome, choose Window > Extensions.  Drag src.crx into the page that appears.
 
